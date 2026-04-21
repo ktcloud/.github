@@ -6,7 +6,7 @@
 
 # Welcome to kt cloud Technology Division
 
-**kt cloud 기술 공식 github에 오신 것을 환영합니다.**<br>
+**kt cloud 공식 GitHub repository 오신 것을 환영합니다.**<br>
 
 </div>
 
@@ -15,7 +15,7 @@
 <br><br>
 
 ## Our Engineering Culture
-> 우리는 차세대 인프라의 표준을 새롭게 정의하며, 외부 커뮤니티와 함께 성장하기 위해 다음의 가치를 실천합니다.
+> kt cloud는 차세대 인프라의 표준을 새롭게 정의하며, 외부 커뮤니티와 함께 성장하기 위해 다음의 가치를 실천하며, 개발자 여러분의 참여, 기여, 협업을 환영합니다.
 
 * **AI & Cloud-Native Standard** <br>
   차세대 아키텍처(KCP)를 기반으로 무한한 확장성을 가진 클라우드 네이티브 생태계를 실현하며, 그 기술적 노하우를 커뮤니티와 지속적으로 나눕니다.
@@ -27,7 +27,7 @@
 <br>
 
 ## Tech Stack
-> 우리는 KCP(kt cloud PLATFORM) 아키텍처를 기반으로, 최적의 클라우드 네이티브 생태계와 AI 파운드리를 구축하기 위해 아래의 오픈소스 기술들을 주력으로 활용합니다.
+> kt cloud는 KCP(kt cloud PLATFORM) 아키텍처를 기반으로, 최적의 클라우드 네이티브 생태계와 AI 파운드리를 구축하기 위해 아래의 오픈소스 기술들을 주력으로 활용합니다.
 
 <br>
 
