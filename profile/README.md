@@ -79,20 +79,22 @@
 
 ---
 
-## Open Source 
-> 공개 소프트웨어의 가치를 공유하고, 안전한 오픈소스 생태계에 기여합니다.
+## Open Source & AI
+> 투명한 소프트웨어 거버넌스를 통해 신뢰할 수 있는 오픈소스 생태계에 기여하며, AI 주도형 엔지니어링(AI-Driven Engineering)으로 기술의 한계를 돌파합니다.
 
-* **[오픈소스](https://github.com/ktcloud/opensource)** kt cloud 서비스에 사용된 오픈소스 라이선스 고지문(Notice) 및 소스코드를 공유합니다.
-* **[프로젝트](https://github.com/ktcloud/opensource/projects?query=is%3Aopen)** 사내 프로젝트 경험을 오픈소스로 공개합니다.
+* **[Open Source](https://github.com/ktcloud/opensource)** 오픈소스 기술을 공개하며 라이선스 고지문(Notice)과 기술 자산(소스코드)을 생태계에 공유합니다.
+* **[AI](https://github.com/ktcloud/ai)** AI 기술을 인프라 환경과 접목하여 리소스 효율성을 높이고, 차세대 워크플로우 자동화를 설계하는 과정을 공개합니다.
 
 <br>
 
-## Communication & Events
-> 기술적 경험을 나누고 함께 성장하는 커뮤니티를 지향합니다.
+## Communication
+> 경계를 허무는 기술적 소통을 통해, 뛰어난 개발자들과 함께 혁신하고 성장하는 오픈 커뮤니티를 지향합니다.
 
-* **[Tech Insights](https://github.com/ktcloud/Tech-Insights)**: kt cloud가 주관(또는 참여)한 대/내외 기술 세미나 및 컨퍼런스 자료를 열람할 수 있습니다.
-* **[kt cloud 기술 블로그](https://tech.ktcloud.com)**: Tech Innovation, With Customer! 기술 리뷰와 문제 해결 경험을 공유합니다.
+* **[Tech Insights](https://github.com/ktcloud/Tech-Insights)** kt cloud 기술 조직이 대내외 행사에서 발표한 핵심 엔지니어링 자료와 강연 슬라이드를 통합 제공합니다.
+* **[kt cloud 기술 블로그](https://tech.ktcloud.com)** Tech Innovation, With Customer! 끊임없는 기술 리뷰와 현장의 치열한 트러블슈팅 경험을 생생하게 나눕니다.
+
+<br>
 
 ## Contact Us
-* `cto.ktcloud@kt.com` (Tech Stack 문의)
-* `oss.ktcloud@kt.com` (오픈소스 운영 문의)
+* `cto.ktcloud@kt.com` (Github, 기술 문의)
+* `oss.ktcloud@kt.com` (오픈소스 문의)
