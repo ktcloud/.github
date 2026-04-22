@@ -26,59 +26,6 @@
 
 <br>
 
-## Tech Stack
-> kt cloud는 KCP(kt cloud PLATFORM) 아키텍처를 기반으로, 최적의 클라우드 네이티브 생태계와 AI 파운드리를 구축하기 위해 아래의 오픈소스 기술들을 주력으로 활용합니다.
-
-<br>
-
-**AI 네이티브 클라우드 플랫폼**
-<div>
-  <img src="https://img.shields.io/badge/OpenStack--Helm-ED1944?style=flat-square&logo=helm&logoColor=white">
-  <img src="https://img.shields.io/badge/libvirt-555555?style=flat-square">
-  <img src="https://img.shields.io/badge/Kube--OVN-326CE5?style=flat-square">
-  <img src="https://img.shields.io/badge/OVN-555555?style=flat-square">
-  <img src="https://img.shields.io/badge/Cluster_API-326CE5?style=flat-square">
-  <img src="https://img.shields.io/badge/Envoy_Gateway-F15A24?style=flat-square&logo=envoyproxy&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB_Operator-003545?style=flat-square&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/RabbitMQ_Operator-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white">
-  <img src="https://img.shields.io/badge/Kyverno-555555?style=flat-square">
-</div>
-
-<br>
-
-**Data & Observability**
-<div>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/Grafana_Mimir-F46800?style=flat-square&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/Grafana_Loki-F46800?style=flat-square&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/Grafana_Tempo-F46800?style=flat-square&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/Grafana_Alloy-F46800?style=flat-square&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
-  <img src="https://img.shields.io/badge/Vector-555555?style=flat-square">
-  <img src="https://img.shields.io/badge/StarRocks-555555?style=flat-square">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
-  <img src="https://img.shields.io/badge/Hive_Metastore-FDEE21?style=flat-square&logo=apachehive&logoColor=black">
-  <img src="https://img.shields.io/badge/Spark_SQL-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
-</div>
-
-<br>
-
-**AI Foundry Services**
-<div>
-  <img src="https://img.shields.io/badge/AI_Train-00A3E0?style=flat-square">
-  <img src="https://img.shields.io/badge/AI_SERV-00A3E0?style=flat-square">
-  <img src="https://img.shields.io/badge/RAG_Suite-00A3E0?style=flat-square">
-  <img src="https://img.shields.io/badge/Vector_DB-00A3E0?style=flat-square">
-</div>
-
-<br>
-
----
-
 ## Open Source & AI
 > 투명한 소프트웨어 거버넌스를 통해 신뢰할 수 있는 오픈소스 생태계에 기여하며, AI 주도형 엔지니어링(AI-Driven Engineering)으로 기술의 한계를 돌파합니다.
 
