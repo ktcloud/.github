@@ -1,18 +1,10 @@
-<div align="left">
 <img src="https://img.shields.io/badge/Status-Under_Construction-FFD700?style=flat-square"> <br>
 <p><em>🚧 현재 메인 페이지 리뉴얼 및 콘텐츠 업데이트 작업이 진행 중입니다. 일부 링크가 연결되지 않을 수 있습니다. 🚧</em></p>
- 
-<div align="left">
 
-# Welcome to kt cloud Technology Division
 
-**kt cloud 공식 GitHub repository 오신 것을 환영합니다.**<br>
+<img width="1200" height="400" alt="gitbub_banner_main" src="https://github.com/user-attachments/assets/920412d6-5856-494f-ab68-f484f877f151" />
 
-</div>
-
-(배너 삽입 예정) 
-
-<br><br>
+<br>
 
 ## Our Engineering Culture
 > kt cloud는 차세대 인프라의 표준을 새롭게 정의하며, 외부 커뮤니티와 함께 성장하기 위해 다음의 가치를 실천하며, 개발자 여러분의 참여, 기여, 협업을 환영합니다.
